@@ -2,3 +2,4 @@ arifin resolusi
 -konsisten
 -kerja keras
 -sucses
+-megulang javascrib
